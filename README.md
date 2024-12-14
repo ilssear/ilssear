@@ -27,3 +27,7 @@ I'm **Jim Moraga** (PhD, MBA, Eng), a strategist and technologist with over 30 y
 ---
 
 Let's collaborate to drive innovation and achieve impactful results. Feel free to explore my repositories and connect with me through the links above.
+
+--- 
+
+Something unique about me? Back in 1995 I was interested in Tolkien's languages, particularly Quenya and Sindarin, and explored translations and linguistic analysis of texts like the Bible into these constructed languages.
